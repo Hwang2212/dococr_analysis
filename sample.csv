@@ -1,0 +1,134 @@
+﻿,trainData,From Mobile App PDF,Camera,PDF
+0,LIFE TO BE ASSURED / ORANG YANG AKAN DIINSURANSKAN,LIFE TO BE ASSURED/ORANG YANG AKAN DIINSURANSKAN,LIFE TO BE ASSURED / ORANG YANG AKAN DIINSURANSKAN,LIFE TO BE ASSURED / ORANG YANG AKAN DIINSURANSKAN
+1,NRIC number (new) / Nombor kad pengenalan (baharu),NRIC number (new) / Nombor kad pengenalan (baharu),3 2,NRIC number (new) / Nombor kad pengenalan (baharu)
+2,2 2 1 2 2 1,221221-32 - 1 2 3 4,NRIC number (new) / Nombor kad pengenalan (baharu),221221-3 2-1 2 3 4
+3,32,Other identification number /,22122 1,Other identification number /
+4,Other identification number /,Nombor pengenalan lain,Other identification number /,Nombor pengenalan lain
+5,Nombor pengenalan lain,Date of birth/Tarikh lahir,Nombor pengenalan lain,Date of birth / Tarikh lahir
+6,Date of birth / Tarikh lahir,21-01-1970,Date of birth / Tarikh lahir,21-01-1970
+7,21,Gender/Jantina,21-01,Gender/Jantina
+8,1,Male/,Gender / Jantina,Male/
+9,Gender / Jantina,Lelaki,Male/,Lelaki
+10,Male /,Marital status/Status perkahwinan,Lelaki,Marital status/Status perkahwinan
+11,âœ“ Lelaki,Married /,Single A,Married /
+12,Marital status/Status perkahwinan,Berkahwin,Bujang,Berkahwin
+13,Married /,âœ“Single/,Race / Kaum,Single/
+14,Berkahwin,Bujang,Marital status/Status perkahwinan,Bujang
+15,Malay /,Race / Kaum,Married /,Race / Kaum
+16,Melayu,Malay/,Berkahwin,Malay/
+17,Country / Negara,Melayu,Country / Negara,Melayu
+18,Female /,Female/,Female/,Female/
+19,Perempuan,Perempuan,Perempuan,Perempuan
+20,Single /,Country / Negara,Country / Negara,Country / Negara
+21,Bujang,Chinese /,1,Chinese/
+22,Race / Kaum,Cina,1970,Cina
+23,âœ“,Nationality / Kewarganegaraan,-,Nationality/Kewarganegaraan
+24,Nationality / Kewarganegaraan,Malaysian /,Malay /,Malaysian/
+25,Malaysian /,Malaysia,âœ“Melayu,Malaysia
+26,Others /,Correspondence address/Alamat surat-menyurat,Chinese /,Correspondence address/Alamat surat-menyurat
+27,Malaysia,In Malaysia,Cina,In Malaysia
+28,Lain-lain,Divorced/,Nationality / Kewarganegaraan,Email / Emel
+29,Correspondence address / Alamat surat-menyurat,Berceral,Malaysian /,Divorced /
+30,In Malaysia,Others/,Others /,Bercerai
+31,Country / Negara,Lain-lain,Lain-lain,Others/
+32,1970,Indian/,Malaysia,Lain-lain
+33,Chinese /,India,Correspondence address / Alamat surat-menyurat,Indian/
+34,Cina,Postcode/,1 n Malaysia,India
+35,Divorced /,Poskod,Divorced /,Postcode/
+36,Bercerai,Occupation / Pekerjaan,Berceral,Poskod
+37,0 1 1,Job,m,Country / Negara
+38,Email / Emel,Others/,Indian/,Malaysia
+39,Indian /,Lain-lain,India,Residential address (if different from correspondence address) /
+40,India,Country / Negara,Occupation / Pekerjaan,Alamat rumah (jika lain dari alamat surat-menyurat)
+41,Postcode /,Malaysia,Job,Others/
+42,Poskod,Residential address (if different from correspondence address)/,1 2 3 4,Lain-lain
+43,1 2 3 4,Alamat rumah (jika lain dari alamat surat-menyurat),Malaysia,Postcode/
+44,Malaysia,Postcode/,Residential address (if different from correspondence address) /,Poskod
+45,Residential address (if different from correspondence address) /,Poskod,Alamat rumah (jika lain dari alamat surat-menyurat),Occupation / Pekerjaan
+46,Alamat rumah (jika lain dari alamat surat-menyurat),Widowed/,Widowed/,Job
+47,Postcode /,Balu,Balu,Widowed/
+48,Poskod,1 2 3 4 5,Others/,Balu
+49,Occupation / Pekerjaan,Phone number / Nombor telefon,Lain-lain,Phone number / Nombor telefon
+50,Job,a. Mobile telephone number / Nombor telefon bimbit,Postcode /,a. Mobile telephone number / Nombor telefon bimbit
+51,Widowed /,012-34 5 6 7 8 9,Poskod,1 2 3 4 5
+52,Balu,b. Residence telephone number / Nombor telefon kediaman,Postcode / 1 2 3 4 5,012-3456789
+53,Others /,011-1 2 3 4 5 6 7 8,Poskod,b. Residence telephone number / Nombor telefon kediaman
+54,Lain-lain,c. Office telephone number / Nombor telefon pejabat,Phone number / Nombor telefon,011- 1 2 3 4 5 6 7 8
+55,Phone number / Nombor telefon,0 1 1-12345678,a. Mobile telephone number / Nombor telefon bimbit,c. Office telephone number / Nombor telefon pejabat
+56,a. Mobile telephone number / Nombor telefon bimbit,Email / Emel,0 1 2 3 4 5 6 7 8 9,011-12345678
+57,12,emasil@test.com,b. Residence telephone number / Nombor telefon kediaman,emasil@test.com
+58,3456 789,PROPOSER (if different from life to be assured)/,0 1 1,PROPOSER (if different from life to be assured)/
+59,1 2 3 4 5,PENCADANG (jika lain dari orang yang akan dinsuranskan),1 2 3 4 5 6,PENCADANG (jika lain dari orang yang akan diinsuranskan)
+60,b. Residence telephone number / Nombor telefon kediaman,NRIC number (new) / Nombor kad pengenalan (baharu),7 8,NRIC number (new) / Nombor kad pengenalan (baharu)
+61,0 1 1,Other identification number/Business registration number /,c. Office telephone number / Nombor telefon pejabat,Other identification number/Business registration number /
+62,1 2 3 4 5 6 7 8,Nombor pengenalan lain/Nombor pendaftaran perniagaan,12345678,Nombor pengenalan lain/Nombor pendaftaran perniagaan
+63,c. Office telephone number / Nombor telefon pejabat,Date of birth/Tarikh lahir,0 1 1,Date of birth/Tarikh lahir
+64,1 2 3 4 5 6 7 8,Gender/Jantina,Email / Emel,Gender/Jantina
+65,emasil@test c o m,Male /,e masil@test,Male/
+66,PROPOSER (if different from life to be assured) /,Lelaki,Com,Lelaki
+67,PENCADANG (jika lain dari orang yang akan diinsuranskan),Marital status/Status perkahwinan,PROPOSER (if different from life to be assured)/,Female/
+68,NRIC number (new) / Nombor kad pengenalan (baharu),Single/ Married /,PENCADANG (jika lain dari orang yang akan diinsuranskan),Perempuan
+69,Other identification number/Business registration number /,Bujang,NRIC number (new) / Nombor kad pengenalan (baharu),Marital status/Status perkahwinan
+70,Nombor pengenalan lain/Nombor pendaftaran perniagaan,Berkahwin,Other identification number/Business registration number /,Married/
+71,Date of birth / Tarikh lahir,Race / Kaum,Nombor pengenalan lain/Nombor pendaftaran perniagaan,Berkahwin
+72,D,Malay/,Date of birth / Tarikh lahir,Single/
+73,M M,Melayu,A,Bujang
+74,Gender / Jantina,Country / Negara,Gender/Jantina,Race / Kaum
+75,Male /,Chinese/,Male/,Chinese/
+76,Lelaki,Cina,Lelaki,Cina
+77,Single /,Nationality / Kewarganegaraan,Marital status/Status perkahwinan,Nationality / Kewarganegaraan
+78,Bujang,Malaysian/,Married /,Malaysian /
+79,Race / Kaum,Malaysia,Berkahwin,Malaysia
+80,Malay /,Correspondence address/Alamat surat-menyurat,Single /,Correspondence address/Alamat surat-menyurat
+81,Melayu,Female/,Bujang,Malay/
+82,Marital status/Status perkahwinan,Perempuan,Race / Kaum,Melayu
+83,Married /,Country / Negara,Malay /,Country / Negara
+84,Berkahwin,Divorced /,Melayu,Country / Negara
+85,Country / Negara,Bercerai,Country / Negara,Divorced/
+86,Country / Negara,Others/,Female /,Bercerai
+87,Female /,Lain-lain,Perempuan,Others/
+88,Perempuan,Email / Emel,Chinese/,Lain-lain
+89,Y,Indian/,Cina,Email / Emel
+90,Chinese /,india,Nationality / Kewarganegaraan,Indian/
+91,Cina,Postcode/,Malaysian /,india
+92,Nationality / Kewarganegaraan,Poskod,Others/,Residential address (if different from correspondence address) /
+93,Malaysian /,Residential address (if different from correspondence address) /,Malaysia,Alamat rumah (jika lain dari alamat surat-menyurat)
+94,Malaysia,Alamat rumah (jika lain dari alamat surat-menyurat),Lain-lain,Postcode/
+95,Correspondence address / Alamat surat-menyurat,15-Feb,Correspondence address / Alamat surat-menyurat,Poskod
+96,Email / Emel,Postcode /,Country / Negara,Phone number / Nombor telefon
+97,Y,Poskod,Divorced /,Mobile telephone number / Nombor telefon bimbit
+98,Others/,Phone number / Nombor telefon,Bercerai,Occupation / Pekerjaan
+99,Lain-lain,2 Mobile telephone number / Nombor telefon bimbit,Indian/,15-Feb
+100,15-Feb,Others/,India,Postcode/
+101,Y Y,Lain-lain,Email / Emel,Poskod
+102,Divorced /,Widowed/,Postcode /,Others/
+103,Bercerai,Balu,Poskod,Lain-lain
+104,Indian/,b. Residence telephone number / Nombor telefon kediaman,Residential address (if different from correspondence address) /,b. Residence telephone number / Nombor telefon kediaman
+105,India,c. Office telephone number/Nombor telefon pejabat,Alamat rumah (jika lain dari alamat surat-menyurat),c. Office telephone number / Nombor telefon pejabat
+106,Occupation / Pekerjaan,Your policy/certificate will be sent to your email address stated above. You may also refer to your policy/certificate details anytime via our client portal,15-Feb,Widowed/
+107,Residential address (if different from correspondence address) /,"sunaccess.sunlifemalaysia.com/portal-ui/CUSTOMER/login. If there is no valid email address provided, your policy/certificate will be mailed to your correspondence",Widowed/,Balu
+108,Alamat rumah (jika lain dari alamat surat-menyurat),address./Polisi/sijil anda akan dihantar kepada emel anda seperti di atas. Anda juga boleh merujuk kepada butiran polisi/sijil anda pada bila-bila masa melalui,Balu,Your policy/certificate will be sent to your email address stated above. You may also refer to your policy/certificate details anytime via our client portal
+109,Postcode /,"sunaccess.sunlifemalaysia.com/portalui/CUSTOMER/login. Jika tiada emel sah diberi, polisi/sijil anda akan dihantar ke alamat surat-menyurat anda.",Postcode /,"sunaccess.sunlifemalaysia.com/portal-ui/CUSTOMER/login. If there is no valid email address provided, your policy/certificate will be mailed to your correspondence"
+110,Poskod,Please select the preferred language for your policy/certificate./Sila pilih bahasa yang dikehendaki untuk polisi/sijil anda.,Poskod,address. / Polisi/sijil anda akan dihantar kepada emel anda seperti di atas. Anda juga boleh merujuk kepada butiran polisi/sijil anda pada bila-bila masa melalui
+111,Phone number / Nombor telefon,English / Bahasa Inggeris,Others/,"sunaccess.sunlifemalaysia.com/portalui/CUSTOMER/login. Jika tiada emel sah diberi, polisi/sijil anda akan dihantar ke alamat surat-menyurat anda."
+112,a. Mobile telephone number / Nombor telefon bimbit,Malay / Bahasa Melayu,Lain-lain,Please select the preferred language for your policy/certificate./ Sila pilih bahasa yang dikehendaki untuk polisi/sijil anda.
+113,Postcode /,"If there is no preference selected, your policy/certificate will be in English. / Jika tiada pilihan dibuat, Bahasa Inggeris akan digunakan untuk polisi/sijil anda.",Phone number / Nombor telefon,English / Bahasa Inggeris
+114,Poskod,Monthly income / Pendapatan bulanan,a. Mobile telephone number / Nombor telefon bimbit,Malay / Bahasa Melayu
+115,Others /,Monthly income / Pendapatan bulanan,b. Residence telephone number / Nombor telefon kediaman,"If there is no preference selected, your policy/certificate will be in English./Jika tiada pilihan dibuat, Bahasa Inggeris akan digunakan untuk polisi/sijil anda"
+116,Lain-lain,RM2000,c. Office telephone number / Nombor telefon pejabat,Monthly income / Pendapatan bulanan
+117,b. Residence telephone number / Nombor telefon kediaman,RM,D,Monthly income / Pendapatan bulanan
+118,c. Office telephone number / Nombor telefon pejabat,Occupation / Pekerjaan,Your policy/certificate will be sent to your email address stated above. You may also refer to your policy/certificate details anytime via our client portal,RM2000
+119,Widowed /,,"sunaccess.sunlifemalaysia.com/portal-ui/CUSTOMER/login. If there is no valid email address provided, your policy/certificate will be mailed to your corresponderice",R M
+120,Balu,,address. / Polisi/sijil anda akan dihantar kepada emel anda seperti di atas. Anda juga boleh merujuk kepada butiran polisi/sijil anda pada bila-bila masa melalul,
+121,Your policy/certificate will be sent to your email address stated above. You may also refer to your policy/certificate details anytime via our client portal,,"sunaccess.sunlifemalaysia.com/portal-ui/CUSTOMER/login. Jika tiada emel sah diberi, polisi/sijil anda akan dihantar ke alamat surat-menyurat anda.",
+122,"sunaccess.sunlifemalaysia.com/portal-ui/CUSTOMER/login. If there is no valid email address provided, your policy/certificate will be mailed to your correspondence",,Please select the preferred language for your policy/certificate. / Sila pilih bahasa yang dikehendaki untuk polisi/sijil anda.,
+123,address. / Polisi/sijil anda akan dihantar kepada emel anda seperti di atas. Anda juga boleh merujuk kepada butiran polisi/sijil anda pada bila-bila masa melalui,,TI,
+124,"sunaccess.sunlifemalaysia.com/portal-ui/CUSTOMER/login. Jika tiada emel sah diberi, polisi/sijil anda akan dihantar ke alamat surat-menyurat anda.",,English / Bahasa Inggeris,
+125,Please select the preferred language for your policy/certificate. / Sila pilih bahasa yang dikehendaki untuk polisi/sijil anda.,,Malay / Bahasa Melayu,
+126,English / Bahasa Inggeris,,"If there is no preference selected, your policy/certificate will be in English. / Jika tiada pilihan dibuat, Bahasa Inggeris akan digunakan untuk polisi/sijil anda.",
+127,Malay / Bahasa Melayu,,Monthly income / Pendapatan bulanan,
+128,"If there is no preference selected, your policy/certificate will be in English. / Jika tiada pilihan dibuat, Bahasa Inggeris akan digunakan untuk polisi/sijil anda.",,Monthly income / Pendapatan bulanan,
+129,Monthly income / Pendapatan bulanan,,R M2000,
+130,Monthly income / Pendapatan bulanan,,R M,
+131,R M2000,,Occupation/ Pekerjaan,
+132,R M,,,
